@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This profile will hopefully give you some tools and such. 
+I like coding.
+- 🔭 I’m currently working on Azure Kontroll, an idea that we can help people out there making Azure great with the help of our experts and an app :)
