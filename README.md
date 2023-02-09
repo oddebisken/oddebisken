@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Skjermbilde 2023-02-09 143915](https://user-images.githubusercontent.com/60235842/217828180-a9d86e00-53da-4a00-b449-853ab3f4b8d8.png)
 <!--
 **oddebisken/oddebisken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
 This profile will hopefully give you some tools and such. 
 I like coding.
-- 🔭 I’m currently working on Azure Kontroll, an idea that we can help people out there making Azure great with the help of our experts and an app :)
+- 🔭 I’m currently working on Azure Kontroll, an idea that we can help people out there making Azure great with the help of our experts and a teamsapp :)
+
